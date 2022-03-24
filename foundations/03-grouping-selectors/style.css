@@ -1,0 +1,13 @@
+.buttons {
+    font-size: 29px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.buttons.first {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.buttons.second {
+    background-color: yellow;
+}
